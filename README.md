@@ -28,7 +28,8 @@ The Fire Alarm System is an open-source project aimed at enhancing safety measur
 ![Shiny Turing (1)](https://github.com/kinderasteroid/fire-alarm-system/assets/84179566/fecf4469-9d43-4559-af7f-8117f6db45d3)
 ### 🪪License:
 
-This project is licensed under the [GNU General Public License v3.0](https://github.com/kinderasteroid/fire-alarm-system/blob/main/LICENSE).Please review the license terms before using, modifying, or distributing the code.
+This project is licensed under the [GNU General Public License v3.0](https://github.com/kinderasteroid/fire-alarm-system/blob/main/LICENSE).Please review the license terms before using, modifying, or distributing the code. ©2021
+
 
 ### ✌🏻Contributing:
 
